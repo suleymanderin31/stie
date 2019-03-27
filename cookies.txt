@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.milenyumwebtv.com	TRUE	/	FALSE	1999999999	__cfduid	dcebbd089350721216b66292fe1f820e51553699247
+xir.milenyumwebtv.com	TRUE	/	FALSE	1999999999	xf_csrf	XRt-_7ZCO9HMnZ1M
+xir.milenyumwebtv.com	TRUE	/	FALSE	1999999999	xf_session	6Af2KOw5v_iupx81RNXdU5sv4CKMHApf
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	dfeea097d812cf195bd3958527ab4d45d1553699383
+xir.milenyumwebtv.com	TRUE	/	FALSE	1999999999	xf_language_id	2
+
